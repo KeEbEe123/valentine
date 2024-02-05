@@ -63,6 +63,8 @@ button {
   border-color: rgb(56, 180, 7);
   border-right: 6px solid darkgreen;
   border-bottom: 8px solid darkgreen;
+
+  cursor: url('img/pixel-heart.png'), auto;
 }
 
 .yes:active() {
